@@ -6,12 +6,25 @@ User Group Plan for 2022
 # End Game
 
 * Collaborative Support
-* Learning by Teaching
-* AWS Certs - what are they in ascending order of difficulty?
-	* 
+* Learning by Doing/Teaching
+* Keep it fun by working together to accomplish a task
+* [AWS Certs](https://aws.amazon.com/certification/exams/) - what are they in ascending order of difficulty?
+	* Cloud Practitioner
+	* Developer Associate
+	* Solutions Architect Associate
+	* SysOps Administrator Associate
+	* Solutions Architect Associate
+	* SysOps Administrator Associate
+	* DevOps Engineer Professional
+	* Solutions Architect Professional
+	* Advanced Networking Specialty
+	* Data Analytics Specialty
+	* Database Specialty
+	* Machine Learning Specialty
+	* Security Specialty
 * Portfolio
 	* Website
-		* Web Apps (App Engine/Elastic Beanstalk)
+		* Web Apps (Lamda / Elastic Beanstalk )
 			* Useful apps
 			* What time is good for you?
 			* Prize Wheel
@@ -20,11 +33,6 @@ User Group Plan for 2022
 		* Networking (VPC/CDN/DNS/Firewalls)
 		* Build Process
 		* Database
-		* Github skills
-			* Learn stuff by doing
-			* Collaborative 
-			* Fun
-			* Portfolio
 
 
 
@@ -38,8 +46,26 @@ User Group Plan for 2022
 
 # rtp-aws website improvement
 * ML Modeling
-* 	Rekognition
-* 	Sage maker
+	* Rekognition
+	* Sage maker
+
+# AWS Work
+* web app to mobile app development
+	* Api usage
+	* Oath
+	* Firewall
+	* https
+* ML modeling
+	* Out of box computer vision API
+	* https://cloud.google.com/vision
+	* AutoML computer vision
+	* Vertex AI <- This is the GOAL
+	* Ka-ching.mp3
+	* Growing field
+	* Javascript TensorFlow Demo <- this is the GOAL
+
+
+
 
 # Funding
 * Gofundme/kickstarter
@@ -68,3 +94,4 @@ It would be grand if we had some split responibilities.  Right now, its all me.
 * Web Fundamentals - Git - github content is available
 * Web Fundamentals - javascript/css/html/node - some fundamental examples in place
 * Web Site Project Portfolio - Web Apps (App Engine/Elastic Beanstalk) - example in place
+* Github/CodeCommit skills
