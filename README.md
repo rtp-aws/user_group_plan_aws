@@ -9,6 +9,7 @@ User Group Plan for 2022
 * Learning by Doing/Teaching
 * Keep it fun by working together to accomplish a task
 * [AWS Certs](https://aws.amazon.com/certification/exams/) - what are they in ascending order of difficulty?
+	Learn skills that help us to pass the available certifications
 	* Cloud Practitioner
 	* Developer Associate
 	* Solutions Architect Associate
