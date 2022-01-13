@@ -12,5 +12,7 @@ The slack invite is here: https://join.slack.com/t/rtp-aws/shared_invite/zt-10r9
 The meeting url is here: https://meet.google.com/iua-pqbn-yvq
 
 The linkedin group is here https://www.linkedin.com/groups/9109652/
+
+#AWSCLOUDBUILDERS #USERGROUP #AWS #AWSCLOUD
 ```
 
