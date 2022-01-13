@@ -3,6 +3,8 @@
 # Create a linkedin post
 
 ```
+20220112 
+
 This sunday at 11:00am EST rtp-aws.org will have a weekly workshop.  The topic of discussion is _________
 
 The the usergroup website is here: https://rtp-aws.org
