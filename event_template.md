@@ -9,9 +9,9 @@ This sunday at 11:00am EST rtp-aws.org will have a weekly workshop.  The topic o
 
 The the usergroup website is here: https://rtp-aws.org
 
-The slack invite is here: https://join.slack.com/t/rtp-aws/shared_invite/zt-10r9e5l4l-14XJlX~m_zU8NyT7EwoL~A
-
 The meeting url is here: https://meet.google.com/iua-pqbn-yvq
+
+The slack invite is here: https://join.slack.com/t/rtp-aws/shared_invite/zt-10r9e5l4l-14XJlX~m_zU8NyT7EwoL~A
 
 The linkedin group is here https://www.linkedin.com/groups/9109652/
 
