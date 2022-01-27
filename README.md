@@ -1,4 +1,3 @@
-# Secrets
+# RTP-AWS usergroup plans, event templates and URLS
 
-Stuff for organziers
-
+See associated markdown files.
