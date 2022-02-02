@@ -1,24 +1,33 @@
-# http://www.gnu.org/software/make/manual/make.html#Special-Variables
-
 # set the default goal.
-# I want the default to really just dump contents of dirs
-# as a stub.  For instance, I don't want it to
-# push code or
-.DEFAULT_GOAL := clean
-#.phony: all deploy gitupdate clean $(DIRS)
+.DEFAULT_GOAL := list_files
+#.phony: list_images gitupdate clean $(DIRS)
+
+
+
+list_files:
+	ls -l
+
+
 
 TOPTARGETS := all clean
 
-SUBDIRS := docs secrets imgs
-
+SUBDIRS :=
+#SUBDIRS := docs foo bin imgs python matlab R raw_data
+#SUBDIRS := $(wildcard */.)
+#BUCKET := some-bucket
 
 $(TOPTARGETS): $(SUBDIRS)
 $(SUBDIRS):
 	echo "make arg is" $(MAKECMDGOALS)
 	$(MAKE) -C $@ $(MAKECMDGOALS)
 
+#.phony: $(TOPTARGETS) $(SUBDIRS)
 
+deploy:
+	echo do deploy stub
 
+gitupdate: clean
+	git add .; git commit -m "secrets"; git push
 
 SUBCLEAN = $(addsuffix .clean,$(SUBDIRS))
 
@@ -34,12 +43,5 @@ $(SUBCLEAN): %.clean:
 #	make -C $? clean
 	-rm *.backup *.swp *.BACKUP
 	$(MAKE) -C $* clean
-
-
-
-
-
-
-
-gitupdate: clean
-	git add --all; git commit -m "wip"; git push
+clean:
+	-rm  *.backup *.BACKUP *.key *.swp
