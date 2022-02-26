@@ -7,6 +7,8 @@
 
 This sunday at 11:00am EST rtp-aws.org will have a weekly workshop.  The topic of discussion is _________
 
+The calendar invite is here: https://calendar.google.com/event?action=TEMPLATE&tmeid=ZG9tbHU0N3UzNHExNDIwOGVjNHI5c285dHZfMjAyMjAyMjdUMTYwMDAwWiBkYXZpc2pmQG0&tmsrc=davisjf%40gmail.com&scp=ALL
+
 The the usergroup website is here: https://rtp-aws.org
 
 The meeting url is here: https://meet.google.com/iua-pqbn-yvq
