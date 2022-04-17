@@ -3,9 +3,10 @@
 # Create a linkedin post
 
 ```
-20220327 
+20220417 
 
-This sunday at 11:00am EDT rtp-aws.org will have a weekly workshop.  The topic of discussion is IWD prep day 3
+This sunday at 11:00am EDT rtp-aws.org will have a weekly workshop.  The topic of discussion is IWD prep day 5.   We are continuin
+g to go over the mxnet fashionNIST image classification example which is the basis of the IWD presentation.
 
 The calendar invite is here: https://calendar.google.com/event?action=TEMPLATE&tmeid=ZG9tbHU0N3UzNHExNDIwOGVjNHI5c285dHZfMjAyMjAyMjdUMTYwMDAwWiBkYXZpc2pmQG0&tmsrc=davisjf%40gmail.com&scp=ALL
 
