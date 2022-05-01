@@ -3,10 +3,9 @@
 # Create a linkedin post
 
 ```
-20220424 
+20220501 
 
-Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  The topic of discussion is IWD prep day 6.   We are continuin
-g to go over the mxnet fashionNIST image classification example which is the basis of the IWD presentation.
+Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  The topic of discussion is IWD prep day 7.   We are continuing to go over the mxnet fashionNIST image classification example which is the basis of the IWD presentation.
 
 
 https://www.rtp-aws.org/about.html
