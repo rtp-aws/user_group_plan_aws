@@ -3,7 +3,7 @@
 # Create a linkedin post
 
 ```
-20220911 
+20220918 
 
 Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
 
