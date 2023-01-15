@@ -3,17 +3,15 @@
 # Create a linkedin post
 
 ```
-20221211 
+202210115
 
 Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
 
 
 The meeting url is here: https://meet.google.com/iua-pqbn-yvq
 
-AWS ML
-
-Using this guide as a goal: https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Exam-Guide.pdf
-
+Resuming work on icy bridge project.
+Also will do a chatGPT demo today.
 
 #USERGROUP #AWS #AWSCLOUD #RTPAWS @rtp-aws #awscommunitybuilders #opensource #rtp #awsusergroups
 ```
