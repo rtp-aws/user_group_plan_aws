@@ -3,7 +3,7 @@
 # Create a linkedin post
 
 ```
-20230319
+20230326
 
 Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
 
@@ -14,5 +14,26 @@ Icy bridge project:
     killswitch lambda sns effort
 
 #USERGROUP #AWS #AWSCLOUD #RTPAWS @rtp-aws #awscommunitybuilders #opensource #rtp #awsusergroups
+```
+
+# publish on dev community
+
+https://dev.to/netskink/aws-weekly-workshop-2abc
+
+
+# content of post
+
+```
+20230326
+
+Today at 11:00am EDT rtp-aws.org will have a weekly workshop.
+
+
+The meeting url is here: https://meet.google.com/iua-pqbn-yvq
+
+Icy bridge project:
+    killswitch lambda sns effort
+
+The github for this effort is here: https://github.com/rtp-aws/killswitch_aws
 ```
 
