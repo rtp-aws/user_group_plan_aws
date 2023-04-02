@@ -3,7 +3,7 @@
 # Create a linkedin post
 
 ```
-20230326
+20230402
 
 Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
 
@@ -12,6 +12,9 @@ The meeting url is here: https://meet.google.com/iua-pqbn-yvq
 
 Icy bridge project:
     killswitch lambda sns effort
+
+Previously we created the lambda to disable S3 based upon a billing alert
+using the AWS SDK v2.  Today we will work on disabling Elastic Beanstalk apps.
 
 #USERGROUP #AWS #AWSCLOUD #RTPAWS @rtp-aws #awscommunitybuilders #opensource #rtp #awsusergroups
 ```
