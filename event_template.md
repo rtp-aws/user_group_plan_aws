@@ -3,7 +3,7 @@
 # Create a linkedin post
 
 ```
-20230423
+20230430
 
 Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
 
