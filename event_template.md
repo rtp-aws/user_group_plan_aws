@@ -3,7 +3,7 @@
 # Create a linkedin post
 
 ```
-20230813
+20230820
 
 Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
 
@@ -12,8 +12,8 @@ The meeting url is here: https://meet.google.com/iua-pqbn-yvq
 
 
 
-The goal is to learn GenAI.  Current focus is Datacamp class:
-   https://campus.datacamp.com/courses/introduction-to-chatgpt
+The goal is to learn GenAI/prompt engineering/LLM.  Plan is here:.  
+   https://github.com/rtp-aws/aws_icy_bridge/blob/main/genai/plan.md
 
 
 #USERGROUP #AWS #AWSCLOUD #RTPAWS @rtp-aws #awscommunitybuilders #opensource #rtp #awsusergroups
