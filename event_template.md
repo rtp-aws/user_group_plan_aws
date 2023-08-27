@@ -3,7 +3,7 @@
 # Create a linkedin post
 
 ```
-20230820
+20230827
 
 Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
 
@@ -12,7 +12,7 @@ The meeting url is here: https://meet.google.com/iua-pqbn-yvq
 
 
 
-The goal is to learn GenAI/prompt engineering/LLM.  Plan is here:.  
+The goal is to learn GenAI/Prompt Engineering/LLM.  Plan is here:.  
    https://github.com/rtp-aws/aws_icy_bridge/blob/main/genai/plan.md
 
 
