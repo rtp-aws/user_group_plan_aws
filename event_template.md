@@ -15,6 +15,9 @@ The meeting url is here: https://meet.google.com/iua-pqbn-yvq
 The goal is to learn GenAI/Prompt Engineering/LLM.  Plan is here:.  
    https://github.com/rtp-aws/aws_icy_bridge/blob/main/genai/plan.md
 
+   current focus is devpost hackathon which uses genAI for fintech. (Show what you know!)
+
+
 
 #USERGROUP #AWS #AWSCLOUD #RTPAWS @rtp-aws #awscommunitybuilders 
 #opensource #rtp #awsusergroups #BUILDINPUBLIC
