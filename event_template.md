@@ -3,7 +3,7 @@
 # Create a linkedin post
 
 ```
-20230827
+20230917
 
 Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
 
@@ -16,7 +16,8 @@ The goal is to learn GenAI/Prompt Engineering/LLM.  Plan is here:.
    https://github.com/rtp-aws/aws_icy_bridge/blob/main/genai/plan.md
 
 
-#USERGROUP #AWS #AWSCLOUD #RTPAWS @rtp-aws #awscommunitybuilders #opensource #rtp #awsusergroups
+#USERGROUP #AWS #AWSCLOUD #RTPAWS @rtp-aws #awscommunitybuilders 
+#opensource #rtp #awsusergroups #BUILDINPUBLIC
 ```
 
 # publish on dev community
