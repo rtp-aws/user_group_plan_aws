@@ -4,13 +4,12 @@
 
 ```
 
-20231022
+20231105
 
-Today at 11:00am EDT rtp-aws.org will have a weekly workshop.  
+Today at 11:00am EST rtp-aws.org will have a weekly workshop.  
 
 
 The meeting url is here: https://meet.google.com/hqm-wrsk-njp
-
 
 
 #USERGROUP #AWS #AWSCLOUD #RTPAWS @rtp-aws #awscommunitybuilders 
